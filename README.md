@@ -9,3 +9,5 @@ A personal website built on HTML, CSS & Vanta.js for the CSS Final Project @ Cod
 3. Bootstrap: A CSS framework for building responsive layouts and components.
 4. Vanta.js: Animated backgrounds for website.
 
+# View it live
+You can view the website live @ https://projects.m4xy.org/diner
