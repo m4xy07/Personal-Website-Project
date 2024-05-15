@@ -10,4 +10,4 @@ A personal website built on HTML, CSS & Vanta.js for the CSS Final Project @ Cod
 4. Vanta.js: Animated backgrounds for website.
 
 # View it live
-You can view the website live @ https://projects.m4xy.org/diner
+You can view the website live @ https://projects.m4xy.org/portfolio
